@@ -25,6 +25,10 @@ Top baby names in the US from 1910-2012:
 
 ![Top Baby Names](https://github.com/KyleRauba63/projects/blob/main/Top%20Baby%20Names.pdf)
 
+2018 Olympic Hockey Player Dashboard (source data located at https://www.contextures.com/xlsampledata01.html#hockey):
+
+![Hockey Player Dashboard](https://github.com/KyleRauba63/projects/blob/main/Hockey%20Dashboard.pdf)
+
 Check out my other analysis on RPubs:
 
 https://rpubs.com/KyleRauba63/873182
