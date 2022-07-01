@@ -20,6 +20,7 @@ Pokémon 1-718 Vizzes:
 
 ![Pokémon 1-718 Moves, Power and PP Levels](https://github.com/KyleRauba63/projects/blob/main/Pok%C3%A9mon%20Move%20Data.pdf)
 
+Attrition dataset: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset?resource=download
 
 Top baby names in the US from 1910-2012:
 
