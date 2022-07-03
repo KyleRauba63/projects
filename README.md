@@ -22,6 +22,9 @@ Pokémon 1-718 Vizzes:
 
 Attrition dataset: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset?resource=download
 
+India Covid-19 Numbers:
+![India Covid-19 Numbers](https://github.com/KyleRauba63/projects/blob/main/Covid-19%20India%20Dashboard.png)
+
 Top baby names in the US from 1910-2012:
 
 ![Top Baby Names](https://github.com/KyleRauba63/projects/blob/main/Top%20Baby%20Names.pdf)
